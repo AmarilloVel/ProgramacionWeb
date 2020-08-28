@@ -1,0 +1,18 @@
+
+.opcion{
+    padding: 5px 0;
+}
+
+.barra{
+    background-color:  rgb(152, 236, 163);
+    border-radius: 4px;
+    padding: 10px;
+
+}
+
+.seleccionado{
+    background-color:  rgb(33, 143, 75);
+    border-radius: 4px;
+    color:white;
+    padding: 10px;
+}
